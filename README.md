@@ -67,7 +67,7 @@ const sadim = {
 
   <!--misc: ["Socket.IO", "REST APIs", "WebSockets", "Message Queues"], -->
       
-<br>
+<!-- <br>
 <table>
        <tr>
         <td>
@@ -77,4 +77,4 @@ const sadim = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadimmali&show_icons=true&locale=en&theme=dark" alt="sadim" /></p>
        </td>
        </tr>
- </table>
+ </table> -->
